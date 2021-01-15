@@ -1,2 +1,2 @@
 # Tindog
-[Udemy Course Project] Tinder for dogs
+[Udemy Course Project] Tinder for dogs.
